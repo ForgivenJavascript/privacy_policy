@@ -1,3 +1,6 @@
+Mint Chord Writer
+=================
+
 Privacy Policy
 ==============
 
